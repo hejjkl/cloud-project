@@ -25,6 +25,8 @@
         <module>admin-client</module>
         <module>admin-server</module>
         <module>service-ribbon</module>
+        <module>spring-security</module>
+
     </modules>
 
     <properties>
