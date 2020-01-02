@@ -17,11 +17,14 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-
     <modules>
         <module>eureka-server</module>
-        <module>serice-feign</module>
+        <module>eureka-client</module>
+        <module>service-feign</module>
         <module>config-server</module>
+        <module>admin-client</module>
+        <module>admin-server</module>
+        <module>service-ribbon</module>
     </modules>
 
     <properties>
